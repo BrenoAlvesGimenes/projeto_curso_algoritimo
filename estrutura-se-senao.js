@@ -1,3 +1,4 @@
+// a
 var numero01, numero02, resultado, operacao, opcao
 
 function AcaoBotao(params) {
