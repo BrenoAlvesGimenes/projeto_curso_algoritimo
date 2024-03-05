@@ -1,21 +1,3 @@
-/*
-Var
-// Seção de Declarações das variáveis
-   sairLoop: caracter
-   valor1, valor2: real
-Inicio
-// Seção de Comandos, procedimento, funções, operadores, etc...
-   repita
-      escreval("Digite o primeiro valor: ")
-      leia(valor1)
-      escreval("Digite o segundo valor: ")
-      leia(valor2)
-      escreval("Resultado: ", valor1 + valor2)
-      escreval("Deseja sair? (S/N): ")
-      leia(sairLoop)
-   ate (sairLoop <> "N")
-*/
-
 function AcaoBotao() {
     var sairLoop, valor1, valor2
     do{
